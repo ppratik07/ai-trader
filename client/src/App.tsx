@@ -1,6 +1,6 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import './App.css'
-import { CreateWorkflow } from './components/CreateWorkflow'
+import CreateWorkflow from './components/CreateWorkflow'
 
 function App() {
   return (
